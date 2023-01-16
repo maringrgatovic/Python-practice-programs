@@ -1,5 +1,4 @@
-# Python small programs for practice
-Small easy programs in python meant for practice
+# Python apps
 
 # CONTENT
 * Dice Roll
